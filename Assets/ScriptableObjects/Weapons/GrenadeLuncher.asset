@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d66b3e331984e2c44b71ecfb50295d99, type: 3}
+  m_Name: GrenadeLuncher
+  m_EditorClassIdentifier: 
+  Name: GrenadeLauncher
+  Description: 
+  Level: 0
+  Rarity: 0
+  Artwork: {fileID: 21300000, guid: 19e5da9950247264ea0e98c805505315, type: 3}
+  GunStyle: 8
+  Required: 5
+  ExtraDamage: 0
+  ExtraPenatration: 0
+  ExtraRange: 0
+  ExtraSpeed: 0
+  Bull: {fileID: 11400000, guid: 1312f2d913d477f40ac7cbaa5197a8d0, type: 2}
+  Automatic: 0
+  MinSpread: 0
+  MaxSpread: 0
+  Zoom: 0
+  FireRate: 6.5
+  EveryNShots: 0
+  ChargeMax: 0
+  ChargeRate: 0
+  ShotgunHoles: 0
+  UseAmmo: 1
+  RealoadTime: 7
+  Rounds: 10
+  Ammo: 5

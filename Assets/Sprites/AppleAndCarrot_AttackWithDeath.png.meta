@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: a0a2d1c51ce06094a9c3ce64ad9f235d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7187298890860815935
+    second: AppleAndCarrot_AttackWithDeath_0
+  - first:
+      213: 5562043900000830085
+    second: AppleAndCarrot_AttackWithDeath_1
+  - first:
+      213: -9141991521668626893
+    second: AppleAndCarrot_AttackWithDeath_2
+  - first:
+      213: 200479568614135350
+    second: AppleAndCarrot_AttackWithDeath_3
+  - first:
+      213: -5135236765340548712
+    second: AppleAndCarrot_AttackWithDeath_4
+  - first:
+      213: 1044002931633657356
+    second: AppleAndCarrot_AttackWithDeath_5
+  - first:
+      213: 777631751530422935
+    second: AppleAndCarrot_AttackWithDeath_6
+  - first:
+      213: 3335743162697849522
+    second: AppleAndCarrot_AttackWithDeath_7
+  - first:
+      213: 5760911517901831094
+    second: AppleAndCarrot_AttackWithDeath_8
+  - first:
+      213: -8579654659095812589
+    second: AppleAndCarrot_AttackWithDeath_9
+  - first:
+      213: -6505547800461572175
+    second: AppleAndCarrot_AttackWithDeath_10
+  - first:
+      213: 1455796187010096824
+    second: AppleAndCarrot_AttackWithDeath_11
+  - first:
+      213: 5281277653669486507
+    second: AppleAndCarrot_AttackWithDeath_12
+  - first:
+      213: -3350140020242889522
+    second: AppleAndCarrot_AttackWithDeath_13
+  - first:
+      213: 8432428656594612554
+    second: AppleAndCarrot_AttackWithDeath_14
+  - first:
+      213: 3631872530487902853
+    second: AppleAndCarrot_AttackWithDeath_15
+  - first:
+      213: -5059682884059479948
+    second: AppleAndCarrot_AttackWithDeath_16
+  - first:
+      213: 1679473333674640120
+    second: AppleAndCarrot_AttackWithDeath_17
+  - first:
+      213: -1527426117140470866
+    second: AppleAndCarrot_AttackWithDeath_18
+  - first:
+      213: 683117626912425810
+    second: AppleAndCarrot_AttackWithDeath_19
+  - first:
+      213: 5960287729372306881
+    second: AppleAndCarrot_AttackWithDeath_20
+  - first:
+      213: 2569305088317406736
+    second: AppleAndCarrot_AttackWithDeath_21
+  - first:
+      213: -3820710239281403618
+    second: AppleAndCarrot_AttackWithDeath_22
+  - first:
+      213: -696414490544908822
+    second: AppleAndCarrot_AttackWithDeath_23
+  - first:
+      213: -6273768610711274268
+    second: AppleAndCarrot_AttackWithDeath_24
+  - first:
+      213: 4976206082794229202
+    second: AppleAndCarrot_AttackWithDeath_25
+  - first:
+      213: -7197008585283054428
+    second: AppleAndCarrot_AttackWithDeath_26
+  - first:
+      213: -6697022937388044048
+    second: AppleAndCarrot_AttackWithDeath_27
+  - first:
+      213: -992355263887003608
+    second: AppleAndCarrot_AttackWithDeath_28
+  - first:
+      213: -6067756439956773537
+    second: AppleAndCarrot_AttackWithDeath_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 6
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 1
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c99eab1db5914c90800000000000000
+      internalID: -7187298890860815935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 284
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5828da44579503d40800000000000000
+      internalID: 5562043900000830085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 284
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3360f4bb52f112180800000000000000
+      internalID: -9141991521668626893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 284
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63618fffa1f38c200800000000000000
+      internalID: 200479568614135350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 284
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891c95c9e59fbb8b0800000000000000
+      internalID: -5135236765340548712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 284
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c069d7c822b0d7e00800000000000000
+      internalID: 1044002931633657356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792290c35f3baca00800000000000000
+      internalID: 777631751530422935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 213
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba1b82abb0fa4e20800000000000000
+      internalID: 3335743162697849522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 213
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbbefeb08ed2ff40800000000000000
+      internalID: 5760911517901831094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 213
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316a1156b81fee880800000000000000
+      internalID: -8579654659095812589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 213
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b70a2c4eb6a7b5a0800000000000000
+      internalID: -6505547800461572175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 213
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beda104be6043410800000000000000
+      internalID: 1455796187010096824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf9d2b6b0eda4940800000000000000
+      internalID: 5281277653669486507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 142
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec44a91c669e181d0800000000000000
+      internalID: -3350140020242889522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 142
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41752eaf21060570800000000000000
+      internalID: 8432428656594612554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 142
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5820b31f2d0076230800000000000000
+      internalID: 3631872530487902853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 142
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470c28b693568c9b0800000000000000
+      internalID: -5059682884059479948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 142
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f20b674910be4710800000000000000
+      internalID: 1679473333674640120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea320330a0e7dcae0800000000000000
+      internalID: -1527426117140470866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2574ce3ccdbea7900800000000000000
+      internalID: 683117626912425810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_20
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 71
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd1b546c1237b250800000000000000
+      internalID: 5960287729372306881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 71
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e33c47d5108a320800000000000000
+      internalID: 2569305088317406736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_22
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 71
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e192fe5c74c1afac0800000000000000
+      internalID: -3820710239281403618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_23
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 71
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5d2aae5b6d556f0800000000000000
+      internalID: -696414490544908822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecfe8b30b81fe8a0800000000000000
+      internalID: -6273768610711274268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd861631190f0540800000000000000
+      internalID: 4976206082794229202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a454c4b2d61f1c90800000000000000
+      internalID: -7197008585283054428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0b75cee156f03a0800000000000000
+      internalID: -6697022937388044048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_28
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820b60d25227a32f0800000000000000
+      internalID: -992355263887003608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAndCarrot_AttackWithDeath_29
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55a9cc8aaffacba0800000000000000
+      internalID: -6067756439956773537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AppleAndCarrot_AttackWithDeath_1: 5562043900000830085
+      AppleAndCarrot_AttackWithDeath_5: 1044002931633657356
+      AppleAndCarrot_AttackWithDeath_24: -6273768610711274268
+      AppleAndCarrot_AttackWithDeath_11: 1455796187010096824
+      AppleAndCarrot_AttackWithDeath_15: 3631872530487902853
+      AppleAndCarrot_AttackWithDeath_25: 4976206082794229202
+      AppleAndCarrot_AttackWithDeath_10: -6505547800461572175
+      AppleAndCarrot_AttackWithDeath_9: -8579654659095812589
+      AppleAndCarrot_AttackWithDeath_6: 777631751530422935
+      AppleAndCarrot_AttackWithDeath_29: -6067756439956773537
+      AppleAndCarrot_AttackWithDeath_28: -992355263887003608
+      AppleAndCarrot_AttackWithDeath_3: 200479568614135350
+      AppleAndCarrot_AttackWithDeath_20: 5960287729372306881
+      AppleAndCarrot_AttackWithDeath_21: 2569305088317406736
+      AppleAndCarrot_AttackWithDeath_22: -3820710239281403618
+      AppleAndCarrot_AttackWithDeath_23: -696414490544908822
+      AppleAndCarrot_AttackWithDeath_2: -9141991521668626893
+      AppleAndCarrot_AttackWithDeath_13: -3350140020242889522
+      AppleAndCarrot_AttackWithDeath_18: -1527426117140470866
+      AppleAndCarrot_AttackWithDeath_0: -7187298890860815935
+      AppleAndCarrot_AttackWithDeath_16: -5059682884059479948
+      AppleAndCarrot_AttackWithDeath_26: -7197008585283054428
+      AppleAndCarrot_AttackWithDeath_27: -6697022937388044048
+      AppleAndCarrot_AttackWithDeath_4: -5135236765340548712
+      AppleAndCarrot_AttackWithDeath_7: 3335743162697849522
+      AppleAndCarrot_AttackWithDeath_12: 5281277653669486507
+      AppleAndCarrot_AttackWithDeath_14: 8432428656594612554
+      AppleAndCarrot_AttackWithDeath_17: 1679473333674640120
+      AppleAndCarrot_AttackWithDeath_8: 5760911517901831094
+      AppleAndCarrot_AttackWithDeath_19: 683117626912425810
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

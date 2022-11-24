@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67e9490a0829a1e4fb05460f31053ab2, type: 3}
+  m_Name: Jhonny
+  m_EditorClassIdentifier: 
+  Name: Jhonny Smith
+  Personalities: 0b00000011000000
+  Speed: 7
+  TalkSpeed: 2
+  Role: 0
+  House: {fileID: 11400000, guid: ead58bbf94654d549b10ae947cf48717, type: 2}
+  LoveForPlayer: 0
+  FavouriteColour: {r: 0.27058825, g: 0, b: 1, a: 1}
+  FavItem: {fileID: 11400000, guid: de325db78a8927546bf689a2b736f048, type: 2}
+  QuestItem: {fileID: 0}

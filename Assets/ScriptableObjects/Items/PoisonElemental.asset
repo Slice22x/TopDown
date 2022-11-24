@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38ff95cdd5c0cc043acc5d89892e9f79, type: 3}
+  m_Name: PoisonElemental
+  m_EditorClassIdentifier: 
+  Name: PoisonElemental
+  Description: 
+  Level: 0
+  Rarity: 0
+  ArtWork: {fileID: 0}
+  Cost: 0
+  SellValue: 0
+  ID: I3
+  ItemGameObject: {fileID: 1298989961647691629, guid: 66d1edf4fffe9994daaabfedc8549374,
+    type: 3}
+  ItemColor: {r: 0, g: 0, b: 0, a: 0}
+  Style: 03000000
+  AppealsTo: 0000000000000000000000000000000000000000
+  DamageAdder: 0
+  DefenceAdder: 0
+  PenatrationAdder: 0
+  ZoomAdder: 0
+  PlayerSpeedAdder: 0
+  BulletSpeedAdder: 0
+  Automate: 0
+  MinSpreadMinus: 0
+  MaxSpreadMinus: 0
+  FireRateAdder: 0
+  ReloadTimeMinus: 0
+  DebufTimeAdder: 5
+  DebufMultiplierAdder: 2
+  ElementDamage: 2
+  DamageRate: 0.43
+  MaxAmmoAdder: 0
+  HolerAmmoAdder: 0
+  CauseEffect: 4
+  Recipie: {fileID: 0}

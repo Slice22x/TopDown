@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 4a810e20f88125e488dc98b7da3640f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7111206519359901089
+    second: Lolipop_Attack_0
+  - first:
+      213: 7934342681888270923
+    second: Lolipop_Attack_1
+  - first:
+      213: 5410813100077957296
+    second: Lolipop_Attack_2
+  - first:
+      213: 8506005596912068727
+    second: Lolipop_Attack_3
+  - first:
+      213: -9079221109903460272
+    second: Lolipop_Attack_4
+  - first:
+      213: 7203822258364080394
+    second: Lolipop_Attack_5
+  - first:
+      213: 7291432950828409603
+    second: Lolipop_Attack_6
+  - first:
+      213: -5193312148041925103
+    second: Lolipop_Attack_0
+  - first:
+      213: -8749599343096782450
+    second: Lolipop_Attack_1
+  - first:
+      213: 2064832167638937461
+    second: Lolipop_Attack_2
+  - first:
+      213: -9023578146765384033
+    second: Lolipop_Attack_3
+  - first:
+      213: 3907091335862711077
+    second: Lolipop_Attack_4
+  - first:
+      213: -374268960452320917
+    second: Lolipop_Attack_5
+  - first:
+      213: 928786775517859228
+    second: Lolipop_Attack_6
+  - first:
+      213: 739053341860631944
+    second: Lolipop_Attack_7
+  - first:
+      213: -1060593858255511117
+    second: Lolipop_Attack_8
+  - first:
+      213: 2995555815821418509
+    second: Lolipop_Attack_9
+  - first:
+      213: 9008833253707543037
+    second: Lolipop_Attack_10
+  - first:
+      213: -8185867437757429666
+    second: Lolipop_Attack_11
+  - first:
+      213: 6102347120144041652
+    second: Lolipop_Attack_12
+  - first:
+      213: 2248849828805285606
+    second: Lolipop_Attack_13
+  - first:
+      213: -8906301890668918342
+    second: Lolipop_Attack_14
+  - first:
+      213: -4176024637893814
+    second: Lolipop_Attack_15
+  - first:
+      213: 9096985957144945659
+    second: Lolipop_Attack_16
+  - first:
+      213: 5071104475828646632
+    second: Lolipop_Attack_17
+  - first:
+      213: 8810354031736589132
+    second: Lolipop_Attack_18
+  - first:
+      213: 3731872321326147835
+    second: Lolipop_Attack_19
+  - first:
+      213: -2528383123269866808
+    second: Lolipop_Attack_20
+  - first:
+      213: -5689408907002139461
+    second: Lolipop_Attack_21
+  - first:
+      213: -1923943843564190827
+    second: Lolipop_Attack_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lolipop_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e7d30ed16ade7b0800000000000000
+      internalID: -7111206519359901089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lolipop_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81a9bb31cd239680800000000000000
+      internalID: 7934342681888270923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lolipop_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f2be0aae1c7ac10800000000000000
+      internalID: 5410813100077957296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lolipop_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9652170c7fc5c280800000000000000
+      internalID: 8506005596912068727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lolipop_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5237a1b8ed6c83630800000000000000
+      internalID: -9079221109903460272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lolipop_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61e8c90d545ecaf0800000000000000
+      internalID: 7203822258364080394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lolipop_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d82d2c6a6b3ec00800000000000000
+      internalID: 7291432950828409603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lolipop_Attack_6: 7291432950828409603
+      Lolipop_Attack_1: 7934342681888270923
+      Lolipop_Attack_4: -9079221109903460272
+      Lolipop_Attack_2: 5410813100077957296
+      Lolipop_Attack_0: -7111206519359901089
+      Lolipop_Attack_3: 8506005596912068727
+      Lolipop_Attack_5: 7203822258364080394
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

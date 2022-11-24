@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 055097516728f4143a2483b57cb39f23, type: 3}
+  m_Name: W1-L2
+  m_EditorClassIdentifier: 
+  World: 1
+  LevelNumber: 2
+  LevelName: Eggplants
+  LevelID: W1-L2
+  LevelIndex: 5
+  BulletsShot: 0
+  EnemiesCured: 0
+  EnemiesDead: 0
+  DamageTaken: 0
+  Deaths: 0

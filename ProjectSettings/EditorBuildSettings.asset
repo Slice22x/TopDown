@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 42e49b4cd859ff447b6b237b3654523a
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: ba58df03ad382b14c88339099fe098d3
+  - enabled: 1
+    path: Assets/Scenes/Levels/Houses/Starting_House.unity
+    guid: 48498cb38ab5c1140b620cabcee7107b
+  - enabled: 1
+    path: Assets/Scenes/Levels/Village.unity
+    guid: 10155428331effd409104c72cef0fbee
+  - enabled: 1
+    path: Assets/Scenes/Levels/World1/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Levels/World1/Level2.unity
+    guid: ffd6cc322adf9694d896ab2f649ea55b
+  - enabled: 1
+    path: Assets/Scenes/Levels/World1/Level3.unity
+    guid: 24235057406d57c4587a93c29c4e0f4d
+  - enabled: 1
+    path: Assets/Scenes/Levels/World1/Level4.unity
+    guid: 806d34dcbeddb214094daed863cebc2e
+  - enabled: 1
+    path: Assets/Scenes/Levels/World1/Level5.unity
+    guid: ea380ffe1c29e3a4ea6d4f8841320622
+  - enabled: 1
+    path: Assets/Scenes/Levels/World1/Level6.unity
+    guid: 9e30017ff9514e6459b638aa1c54a73f
+  - enabled: 1
+    path: Assets/Scenes/Levels/World1/Boss1.unity
+    guid: aa08dfbf74f328640b082b124ad8e484
+  - enabled: 1
+    path: Assets/Scenes/Levels/Houses/Player_House.unity
+    guid: 5beba3673d7bdf546b5b7fad4bc4c01f
+  - enabled: 1
+    path: Assets/Scenes/Levels/Houses/MyCastle.unity
+    guid: 630865b602fdc124c9579cb6c74825f5
+  - enabled: 1
+    path: Assets/Scenes/Levels/Houses/BestHomeEver.unity
+    guid: 4d1d859fc35590f44b0ae573440df3a2
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: d544793aaedf0f047bc21277c185e137
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 8740a041690e6314184263a0cf6c4d6f,
+      type: 2}

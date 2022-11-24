@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38ff95cdd5c0cc043acc5d89892e9f79, type: 3}
+  m_Name: IceScope
+  m_EditorClassIdentifier: 
+  Name: IceScope
+  Description: 
+  Level: 0
+  Rarity: 0
+  ArtWork: {fileID: 21300000, guid: 14ed5c42e4814f84f9c32d1542bde983, type: 3}
+  Cost: 0
+  SellValue: 0
+  ID: I2
+  ItemGameObject: {fileID: 7188221678905155367, guid: edd9f5160bfc1db4ebfa399349d41c1d,
+    type: 3}
+  ItemColor: {r: 0, g: 0, b: 0, a: 0}
+  Style: 0200000003000000
+  AppealsTo: 0000000000000000000000000000000000000000
+  DamageAdder: 5
+  DefenceAdder: 0
+  PenatrationAdder: 2
+  ZoomAdder: 5
+  PlayerSpeedAdder: 0
+  BulletSpeedAdder: 0
+  Automate: 0
+  MinSpreadMinus: 0
+  MaxSpreadMinus: 0
+  FireRateAdder: 0
+  ReloadTimeMinus: 0
+  DebufTimeAdder: 3
+  DebufMultiplierAdder: 1
+  ElementDamage: 7
+  DamageRate: 0.34
+  MaxAmmoAdder: 0
+  HolerAmmoAdder: 0
+  CauseEffect: 3
+  Recipie: {fileID: 0}

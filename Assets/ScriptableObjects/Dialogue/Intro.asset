@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 082adf8d60d0c944aba8c3e5962f01cc, type: 3}
+  m_Name: Intro
+  m_EditorClassIdentifier: 
+  Personality: 0
+  Speach:
+    DialogueToSay:
+    - Name: Billy
+      Type: 0
+      ActionObject: 
+      Speak: Heya bud, I am *Person*.
+    - Name: Billy
+      Type: 0
+      ActionObject: 
+      Speak: I love *FavItem*.
+    - Name: Billy
+      Type: 0
+      ActionObject: 
+      Speak: I have to go, so I will see you later
+    - Name: Billy
+      Type: 0
+      ActionObject: 
+      Speak: Bye!

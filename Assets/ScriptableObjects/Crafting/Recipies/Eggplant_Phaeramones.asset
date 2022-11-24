@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85f26cd7f2eacd34db7a1595b16980ea, type: 3}
+  m_Name: Eggplant_Phaeramones
+  m_EditorClassIdentifier: 
+  Output: {fileID: 11400000, guid: 922f4fa515b8ea842b22ee5d5313fc4e, type: 2}
+  Item00: {fileID: 0}
+  Item01: {fileID: 0}
+  Item02: {fileID: 0}
+  Item10: {fileID: 11400000, guid: 0ac36d6055b63f14bb90f06f1e32f3a7, type: 2}
+  Item11: {fileID: 11400000, guid: c65df841a5e132e46a899dbb0ec392c3, type: 2}
+  Item12: {fileID: 0}
+  Item20: {fileID: 0}
+  Item21: {fileID: 0}
+  Item22: {fileID: 0}

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38ff95cdd5c0cc043acc5d89892e9f79, type: 3}
+  m_Name: Esparagus_potion
+  m_EditorClassIdentifier: 
+  Name: Esparagus potion
+  Description: 
+  Level: 0
+  Rarity: 0
+  ArtWork: {fileID: 21300000, guid: b8c2a134bd3a3a944b682afda965203d, type: 3}
+  Cost: 20
+  SellValue: 0
+  ID: P2
+  ItemGameObject: {fileID: 6418207957254513485, guid: ed2e3391331681f42a9c038ff8e95e16,
+    type: 3}
+  ItemColor: {r: 0, g: 0, b: 0, a: 0}
+  Style: 01000000
+  AppealsTo: 0e00000014000000160000000a00000004000000
+  DamageAdder: 0
+  DefenceAdder: 0
+  PenatrationAdder: 0
+  ZoomAdder: 0
+  PlayerSpeedAdder: 0
+  BulletSpeedAdder: 0
+  Automate: 0
+  MinSpreadMinus: 0
+  MaxSpreadMinus: 0
+  FireRateAdder: 0
+  ReloadTimeMinus: 0
+  DebufTimeAdder: 0
+  DebufMultiplierAdder: 0
+  ElementDamage: 0
+  DamageRate: 0
+  MaxAmmoAdder: 0
+  HolerAmmoAdder: 0
+  CanDealFire: 0
+  CanDealPSN: 0
+  CanDealIce: 0
+  CanTrap: 0
+  Recipie: {fileID: 0}

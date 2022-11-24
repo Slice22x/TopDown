@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6854322128015290541
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6854322128015290539}
+  - component: {fileID: 6854322128015290540}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6854322128015290539
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6854322128015290541}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6854322128015290540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6854322128015290541}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 222c491fa0f6a9c4d9a94c64f5313ab5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Sounds:
+  - ThisSound: 0
+    Clip: {fileID: 8300000, guid: 9cdb4dcbb640ecb4a926d3e856d39228, type: 3}
+    Name: Shoot
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+    Source: {fileID: 0}
+  - ThisSound: 0
+    Clip: {fileID: 8300000, guid: 7aeab6a53440d4a4db5631c68279198b, type: 3}
+    Name: Exp
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+    Source: {fileID: 0}
+  - ThisSound: 0
+    Clip: {fileID: 8300000, guid: 947115f53483de74ca18fc874c50f11d, type: 3}
+    Name: BigExp
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+    Source: {fileID: 0}
+  - ThisSound: 0
+    Clip: {fileID: 8300000, guid: 3e1b66e27f08d9e419e5d88f0214de1a, type: 3}
+    Name: PowerA
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+    Source: {fileID: 0}
+  - ThisSound: 0
+    Clip: {fileID: 8300000, guid: 3f61c8392376c184bbea8a6609345e61, type: 3}
+    Name: PowerH
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+    Source: {fileID: 0}
+  - ThisSound: 0
+    Clip: {fileID: 8300000, guid: 455d7b826e3edd042b7ac66cc4c77400, type: 3}
+    Name: Hurt
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+    Source: {fileID: 0}
+  - ThisSound: 0
+    Clip: {fileID: 8300000, guid: 5f7f9cdb172b869439d93ae7f709440c, type: 3}
+    Name: Pick
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+    Source: {fileID: 0}
+  - ThisSound: 1
+    Clip: {fileID: 8300000, guid: 5f20e66c863241f45ba8ca36118eb054, type: 3}
+    Name: Night_Theme
+    Volume: 1
+    Pitch: 1
+    Loop: 1
+    Source: {fileID: 0}
+  - ThisSound: 1
+    Clip: {fileID: 8300000, guid: c8f44b064708a1e4b9b592bd21788acc, type: 3}
+    Name: Village
+    Volume: 1
+    Pitch: 1
+    Loop: 1
+    Source: {fileID: 0}
+  - ThisSound: 1
+    Clip: {fileID: 8300000, guid: 66c748a4260944b4e89c219899cc7b6e, type: 3}
+    Name: Boss1
+    Volume: 0.5
+    Pitch: 1
+    Loop: 1
+    Source: {fileID: 0}
+  Settings: {fileID: 11400000, guid: 001635826229500468e49643e56e0c7d, type: 2}

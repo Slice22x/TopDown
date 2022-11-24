@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d0b3af18f116a147a1d09bfa95c097b, type: 3}
+  m_Name: Eggplant
+  m_EditorClassIdentifier: 
+  Name: Eggplant
+  Description: Slow moving Tanky vegetable which explodes when close to the player
+  ID: EG
+  EnemyColour: {r: 0.34849548, g: 0, b: 1, a: 1}
+  EnemySprite: {fileID: -6905139553319271647, guid: e5aedb24eb4b03a4389ff58a7a27ed44,
+    type: 3}
+  Health: 20
+  Defence: 56
+  Damage: 30
+  Speed: 3
+  DetectionRange: 15
+  WanderSpeed: 5
+  ElementResistance: 80
+  EnemyObjectt: {fileID: 6478832831681387104, guid: 3e74655ea94aa0045b8315ccf590959b,
+    type: 3}
+  EnemyTpye: 1

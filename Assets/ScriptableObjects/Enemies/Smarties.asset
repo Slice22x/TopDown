@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d0b3af18f116a147a1d09bfa95c097b, type: 3}
+  m_Name: Smarties
+  m_EditorClassIdentifier: 
+  Name: Smarties
+  Description: This enemy duplicates on death however due to the amount of mass the
+    smaller ones have they have a max limit to the amount the can duplicate
+  ID: SM
+  EnemyColour: {r: 1, g: 0.50980395, b: 0, a: 1}
+  EnemySprite: {fileID: 0}
+  Health: 5
+  Defence: 10
+  Damage: 3
+  Speed: 5
+  DetectionRange: 10
+  WanderSpeed: 3
+  ElementResistance: 20
+  EnemyObjectt: {fileID: 6535801563278255242, guid: 383011d24cd4530469e2987c67c37daa,
+    type: 3}
+  EnemyTpye: 6

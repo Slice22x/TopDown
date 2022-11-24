@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d0b3af18f116a147a1d09bfa95c097b, type: 3}
+  m_Name: Rock Candy
+  m_EditorClassIdentifier: 
+  Name: Rock Candy
+  Description: A special type of enemy they deal damage by slaming their body into
+    you so I recommend that you stay clear of them and shoot from a far
+  ID: RC
+  EnemyColour: {r: 0.8705883, g: 0.3921569, b: 0.3921569, a: 0}
+  EnemySprite: {fileID: 21300000, guid: df271880c6f05f64db6ae3e76b70544f, type: 3}
+  Health: 20
+  Defence: 71
+  Damage: 50
+  Speed: 3
+  DetectionRange: 12
+  WanderSpeed: 4
+  ElementResistance: 49.2
+  EnemyObjectt: {fileID: 8698010603910415777, guid: 0ea41049d39730c44907152951e331b9,
+    type: 3}
+  EnemyTpye: 4

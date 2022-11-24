@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38ff95cdd5c0cc043acc5d89892e9f79, type: 3}
+  m_Name: StrawberryPotion
+  m_EditorClassIdentifier: 
+  Name: StrawberryPotion
+  Description: 
+  Level: 0
+  Rarity: 0
+  ArtWork: {fileID: 21300000, guid: 7c2b3611325525b448cfdb1830eb7627, type: 3}
+  Cost: 15
+  SellValue: 0
+  ID: P3
+  ItemGameObject: {fileID: 2268560400879182766, guid: e6ff75257cde5eb438e457e2e1721f89,
+    type: 3}
+  ItemColor: {r: 0, g: 0, b: 0, a: 0}
+  Style: 01000000
+  AppealsTo: 0e00000014000000160000000a00000004000000
+  DamageAdder: 0
+  DefenceAdder: 0
+  PenatrationAdder: 0
+  ZoomAdder: 0
+  PlayerSpeedAdder: 0
+  BulletSpeedAdder: 0
+  Automate: 0
+  MinSpreadMinus: 0
+  MaxSpreadMinus: 0
+  FireRateAdder: 0
+  ReloadTimeMinus: 0
+  DebufTimeAdder: 0
+  DebufMultiplierAdder: 0
+  ElementDamage: 0
+  DamageRate: 0
+  MaxAmmoAdder: 0
+  HolerAmmoAdder: 0
+  CanDealFire: 0
+  CanDealPSN: 0
+  CanDealIce: 0
+  CanTrap: 0
+  Recipie: {fileID: 0}

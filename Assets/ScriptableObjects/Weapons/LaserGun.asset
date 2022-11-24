@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d66b3e331984e2c44b71ecfb50295d99, type: 3}
+  m_Name: LaserGun
+  m_EditorClassIdentifier: 
+  Name: LaserGun
+  Description: 
+  Level: 0
+  Rarity: 0
+  Artwork: {fileID: 0}
+  GunStyle: 9
+  Required: 6
+  ExtraDamage: 0
+  ExtraPenatration: 0
+  ExtraRange: 0
+  ExtraSpeed: 0
+  Bull: {fileID: 11400000, guid: 02400ee5d6901f54989fc54622ebd5d3, type: 2}
+  Automatic: 0
+  MinSpread: 0
+  MaxSpread: 0
+  Zoom: 0
+  FireRate: 3
+  UseAmmo: 1
+  RealoadTime: 3
+  Rounds: 4
+  Ammo: 75
+  EveryNShots: 0
+  RangeNShots: 0
+  EveryNShotsRange:
+    x: 0
+    y: 0
+  StartAngle: 0
+  EndAngle: 0
+  Stableiser: 0
+  ChargeMax: 0
+  ChargeRate: 0
+  ShotgunTurrets: 0
